@@ -24,4 +24,4 @@ STEP-2      ***now add window.addEventListner and inside it define the property 
             btn.style.marginTop= value * 0.5 +'px';
             header.style.marginTop= value* 0.9 +'px';
         })
-    </script>
+    </script> 
