@@ -1,4 +1,5 @@
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 # Parallax-1 is the basic website i have made just to show you how eventListners work when we scroll on the screen ,to achieving this effect we have to add a javascript in our HTML5 
 
 
